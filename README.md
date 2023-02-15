@@ -10,8 +10,11 @@ I do
 at
 
 <a href="https://sandbox.com.np">
-<img src="https://sandbox.com.np/static/media/logov2.a9e9c80c.svg"  width="100" height="30"/>
+<img src="https://sandbox.com.np/static/media/logov2.a9e9c80c.svg" target="_blank" width="100" height="30"/>
 </a>.
 
 ###  My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=anchalghale&count_private=true&theme=city_lights) ![](https://github-readme-streak-stats.herokuapp.com/?user=anchalghale)
+![](https://github-readme-stats.vercel.app/api?username=anchalghale&count_private=true&theme=highcontrast) ![](https://github-readme-streak-stats.herokuapp.com/?user=anchalghale&theme=highcontrast)
+
+## Contact Me
+Mail: anchalghale@gmail.com
