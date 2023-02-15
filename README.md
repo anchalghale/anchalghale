@@ -1,28 +1,17 @@
-### Hi there 👋
+
+## Hi there 👋
 
 I am Anchal.
 
 I do
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+at
 
-<!--
-**anchalghale/anchalghale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://sandbox.com.np">
+<img src="https://sandbox.com.np/static/media/logov2.a9e9c80c.svg"  width="100" height="30"/>
+</a>.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My Github
-![](https://github-readme-stats.vercel.app/api?username=anchalghale&count_private=true&theme=city_lights)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anchalghale)
-
-![Metrics](https://metrics.lecoq.io/anchalghale?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+###  My Github Stats
+![](https://github-readme-stats.vercel.app/api?username=anchalghale&count_private=true&theme=city_lights) ![](https://github-readme-streak-stats.herokuapp.com/?user=anchalghale)
