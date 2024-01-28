@@ -13,7 +13,7 @@ at
 
 <a href="https://sandbox.com.np">
 <img src="https://sandbox.com.np/assets/sandbox.png" target="_blank" width="48" height="48"/>
-</a>.
+</a>
 
 ###  My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=anchalghale&count_private=true&theme=highcontrast) ![](https://github-readme-streak-stats.herokuapp.com/?user=anchalghale&theme=highcontrast)
