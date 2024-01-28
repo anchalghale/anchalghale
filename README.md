@@ -12,7 +12,7 @@ and more
 at 
 
 <a href="https://sandbox.com.np">
-<img src="https://sandbox.com.np/assets/sandbox.png" target="_blank" width="100" height="30"/>
+<img src="https://sandbox.com.np/assets/sandbox.png" target="_blank" width="48" height="48"/>
 </a>.
 
 ###  My Github Stats
